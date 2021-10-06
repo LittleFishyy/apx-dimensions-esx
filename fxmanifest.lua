@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Flixzy#7946'
-description 'Dimension System for FiveM using Routing Buckets.'
+description 'Dimension System for FiveM using Routing Buckets. - ESX Version'
 version '0.0.1 - BETA'
 
 shared_scripts {
