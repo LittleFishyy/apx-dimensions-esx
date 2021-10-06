@@ -9,6 +9,6 @@ Dependencies:
 
 Preview: [Video](https://streamable.com/ta68vp) 
 
-Download ESX: 
+Download: [ESX Version](https://github.com/xFlixzy/apx-dimensions-esx) or [QB Version](https://github.com/xFlixzy/apx-dimensions-qb)
 
 Thanks and hope you enjoy it!
