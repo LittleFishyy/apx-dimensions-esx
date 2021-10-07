@@ -4,7 +4,7 @@
 
 Dependencies:
 
-> [ESX-Legacy](https://github.com/esx-framework/esx-legacy) or es_extended 1.2, **if you use esx 1.1 you must go to the fxmanifest line: 10 and delete that line of code.**
+> [ESX-Legacy](https://github.com/esx-framework/esx-legacy) or es_extended 1.2, **if you use esx 1.1 you must go to fxmanifest line: 10 and delete that line of code and call ESX on the server-side.**
 > [QB-Core](https://github.com/qbcore-framework/qb-core)
 
 Preview: [Video](https://streamable.com/uetd6g) 
