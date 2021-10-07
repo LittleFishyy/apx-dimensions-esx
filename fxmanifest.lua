@@ -6,8 +6,8 @@ description 'Dimension System for FiveM using Routing Buckets. - ESX Version'
 version '0.0.1 - BETA'
 
 shared_scripts {
-    '@core/locale.lua',
-    '@core/imports.lua',
+    '@es_extended/locale.lua',
+    '@es_extended/imports.lua',
     'Locales/*.lua'
 }
 
